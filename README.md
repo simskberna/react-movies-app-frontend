@@ -1,9 +1,11 @@
-# Getting Started with Create React App
+# Getting Started with Create React App 💻⌨️🖱️
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-YOU CAN ALSO SEE THIS PROJECT IN LIVE VERSION HERE : https://react-movies-app-frontend.vercel.app/
+YOU CAN ALSO SEE THIS PROJECT IN LIVE VERSION HERE : https://react-movies-app-frontend.vercel.app/  
 PROJECT'S BACKEND : https://github.com/simskberna/java-movies-api-backend.git
+
+![Uploading DespicableMeMinionsGIF.gif…]() 
 
 ## Available Scripts
 
