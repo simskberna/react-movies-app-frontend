@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-YOU CAN ALSO SEE THIS PROJECT IN LIVE VERSION HERE : 
+YOU CAN ALSO SEE THIS PROJECT IN LIVE VERSION HERE : https://react-movies-app-frontend.vercel.app/
 
 ## Available Scripts
 
