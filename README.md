@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 YOU CAN ALSO SEE THIS PROJECT IN LIVE VERSION HERE : https://react-movies-app-frontend.vercel.app/  
 PROJECT'S BACKEND : https://github.com/simskberna/java-movies-api-backend.git
 
-![Uploading DespicableMeMinionsGIF.gif…]() 
+![DespicableMeMinionsGIF (2)](https://github.com/simskberna/react-movies-app-frontend/assets/49639453/4d0296ca-4dea-4a62-a709-6530b07045f3)
+
 
 ## Available Scripts
 
